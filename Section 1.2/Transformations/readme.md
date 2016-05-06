@@ -17,8 +17,8 @@ In the case that more than one transform could have been used, choose the one wi
 #### INPUT FORMAT
 
 * Line 1:	A single integer, N
-* Line 2..N+1:	N lines of N characters (each either `@' or `-'); this is the square before transformation
-* Line N+2..2*N+1:	N lines of N characters (each either `@' or `-'); this is the square after transformation
+* Line 2..N+1:	N lines of N characters (each either '@' or '-'); this is the square before transformation
+* Line N+2..2*N+1:	N lines of N characters (each either '@' or '-'); this is the square after transformation
 
 #### SAMPLE INPUT (file transform.in)
 ```
