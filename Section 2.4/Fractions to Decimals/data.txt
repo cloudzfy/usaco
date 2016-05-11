@@ -1,0 +1,18 @@
+------- test 1 [length 5 bytes] ----
+22 5
+------- test 2 [length 4 bytes] ----
+1 7
+------- test 3 [length 10 bytes] ----
+100000 59
+------- test 4 [length 9 bytes] ----
+1 100000
+------- test 5 [length 4 bytes] ----
+3 3
+------- test 6 [length 7 bytes] ----
+59 330
+------- test 7 [length 12 bytes] ----
+100000 9817
+------- test 8 [length 8 bytes] ----
+1 99991
+------- test 9 [length 9 bytes] ----
+982 4885
