@@ -1,0 +1,26 @@
+------- test 1 [length 6 bytes] ----
+4 2 1
+------- test 2 [length 6 bytes] ----
+1 1 2
+------- test 3 [length 7 bytes] ----
+8 4 30
+------- test 4 [length 8 bytes] ----
+10 2 56
+------- test 5 [length 7 bytes] ----
+7 7 64
+------- test 6 [length 9 bytes] ----
+18 3 300
+------- test 7 [length 14 bytes] ----
+21 10 1048576
+------- test 8 [length 15 bytes] ----
+24 20 12936478
+------- test 9 [length 15 bytes] ----
+31 24 10000000
+------- test 10 [length 17 bytes] ----
+31 31 2147483648
+------- test 11 [length 15 bytes] ----
+31 26 12345678
+------- test 12 [length 16 bytes] ----
+31 26 123456789
+------- test 13 [length 17 bytes] ----
+31 26 1234567890
