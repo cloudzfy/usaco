@@ -82,4 +82,4 @@ Copyright (C) 2016 Cloudzfy. All Rights Reserved.
     * Raucous Rockers
 * Chapter 4 Advanced Algorithms and Difficult Drills
 * Chapter 5 Serious Challenges
-* Chapter 5 Contest Practice
+* Chapter 6 Contest Practice
