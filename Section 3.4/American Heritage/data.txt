@@ -1,0 +1,27 @@
+------- test 1 [length 18 bytes] ----
+ABEDFCHG
+CBADEFGH
+------- test 2 [length 4 bytes] ----
+F
+F
+------- test 3 [length 10 bytes] ----
+BCAD
+ABCD
+------- test 4 [length 16 bytes] ----
+GOLEAFS
+SFAELOG
+------- test 5 [length 20 bytes] ----
+GSHBAQTPM
+ABGHSPQTM
+------- test 6 [length 32 bytes] ----
+AUBYCVDZEWFXGTH
+ZYUABVCDXWEFTGH
+------- test 7 [length 40 bytes] ----
+ABDCJHKILMNPOQFEGRS
+ABCDEFHJIKLMNOPQGRS
+------- test 8 [length 54 bytes] ----
+GFDIHKLJMBNESRTPOQAUCWVZYX
+ABDFGHIJKLMENOPRSTQCUVWXYZ
+------- test 9 [length 54 bytes] ----
+EHGDIFJLKMBNCOQSPRAWUXZYTV
+ABDEGHFIJKLMCNOPQSRTUWXYZV
