@@ -81,5 +81,20 @@ Copyright (C) 2016 Cloudzfy. All Rights Reserved.
     * Electric Fence
     * Raucous Rockers
 * Chapter 4 Advanced Algorithms and Difficult Drills
+  * Section 4.1
+    * Beef McNuggets
+    * Fence Loops
+  * Section 4.2
+    * Drainage Ditches
+    * The Perfect Stall
+    * Job Processing
+  * Section 4.3
+    * Buy Low, Buy Lower
+    * Street Race
+    * Letter Game
+  * Section 4.4
+    * Shuttle Puzzle
+    * Pollutant Control
+    * Frame Up
 * Chapter 5 Serious Challenges
 * Chapter 6 Contest Practice
