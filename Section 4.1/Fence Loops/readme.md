@@ -34,7 +34,7 @@ The pasture with the smallest perimeter is the one that is enclosed by fence seg
 
 * Line 1: N (1 <= N <= 100)
 * Line 2..3*N+1: N sets of three line records:
-  * The first line of each record contains four integers: s, the segment number (1 <= s <= N); Ls, the length of the segment (1 <= Ls <= 255); N1s (1 <= N1s <= 8) the number of items on the subsequent line; and N2sthe number of items on the line after that (1 <= N2s <= 8).
+  * The first line of each record contains four integers: s, the segment number (1 <= s <= N); Ls, the length of the segment (1 <= L<sub>s</sub> <= 255); N1<sub>s</sub> (1 <= N1<sub>s</sub> <= 8) the number of items on the subsequent line; and N2<sub>s</sub> the number of items on the line after that (1 <= N2<sub>s</sub> <= 8).
   * The second line of the record contains N1 integers, each representing a connected line segment on one end of the fence.
   * The third line of the record contains N2 integers, each representing a connected line segment on the other end of the fence.
 
