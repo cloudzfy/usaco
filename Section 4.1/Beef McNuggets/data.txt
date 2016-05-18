@@ -1,0 +1,41 @@
+------- test 1 [length 9 bytes] ----
+3
+3
+6
+10
+------- test 2 [length 6 bytes] ----
+2
+2
+3
+------- test 3 [length 4 bytes] ----
+1
+1
+------- test 4 [length 18 bytes] ----
+4
+252
+250
+254
+256
+------- test 5 [length 10 bytes] ----
+2
+255
+254
+------- test 6 [length 22 bytes] ----
+5
+251
+252
+250
+254
+256
+------- test 7 [length 43 bytes] ----
+10
+238
+240
+242
+244
+246
+248
+250
+252
+254
+255
