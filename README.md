@@ -97,4 +97,23 @@ Copyright (C) 2016 Cloudzfy. All Rights Reserved.
     * Pollutant Control
     * Frame Up
 * Chapter 5 Serious Challenges
+  * Section 5.1
+    * Fencing the Cows
+    * Starry Night
+    * Musical Themes
+  * Section 5.2
+    * Snail Trail
+  * Section 5.3
+    * Milk Measuring
+    * Window Area
+    * Network of Schools
+    * Big Barn
+  * Section 5.4
+    * Canada Tour
+    * Character Recognition
+    * TeleCowmunication
+  * Section 5.5
+    * Picture
+    * Hidden Passwords
+    * Two Five
 * Chapter 6 Contest Practice
