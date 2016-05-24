@@ -1,4 +1,4 @@
-Snail Trails
+## Snail Trails
 
 Sally Snail likes to stroll on a N x N square grid (1 <n <= 120). She always starts in the upper left corner of the grid. The grid has empty squares (denoted below by '.') and a number (B) of barriers (denoted below by '#'). Here is a depiction of a grid including a demonstration of the grid labelling algorithm:
 
