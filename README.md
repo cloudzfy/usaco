@@ -117,3 +117,25 @@ Copyright (C) 2016 Cloudzfy. All Rights Reserved.
     * Hidden Passwords
     * Two Five
 * Chapter 6 Contest Practice
+  * Section 6.1
+    * Postal Vans
+    * A Rectangular Barn
+    * Cow XOR
+  * Section 6.2
+    * Calf Flac
+    * Packing Rectangles
+    * Shaping Regions
+  * Section 6.3
+    * Fence Rails
+    * Cryptcowgraphy
+    * Cowcycles
+  * Section 6.4
+    * The Primes
+    * Electric Fences
+    * Wisconsin Squares
+  * Section 6.5
+    * All Latin Squares
+    * Closed Fences
+    * Betsy's Tour
+    * The Clocks
+    * Checker Challenge
