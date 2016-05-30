@@ -1,0 +1,36 @@
+------- test 1 [length 4 bytes] ----
+N
+1
+------- test 2 [length 28 bytes] ----
+W
+ABCDEFGHIJKLMNOPQRSTUVWXY
+------- test 3 [length 6 bytes] ----
+N
+100
+------- test 4 [length 28 bytes] ----
+W
+ABCDEFGHIJKLMNQOPSTVRUWXY
+------- test 5 [length 8 bytes] ----
+N
+10000
+------- test 6 [length 28 bytes] ----
+W
+ABCDEFGHIKJMNQRLOTVXPSUWY
+------- test 7 [length 12 bytes] ----
+N
+701149020
+------- test 8 [length 28 bytes] ----
+W
+AFKPUBGLQVCHMRWDINSXEJOTY
+------- test 9 [length 12 bytes] ----
+N
+152798377
+------- test 10 [length 28 bytes] ----
+W
+ABDILCEMPSFGNTVHKOUXJQRWY
+------- test 11 [length 12 bytes] ----
+N
+192837465
+------- test 12 [length 28 bytes] ----
+W
+ABCJQDFIMREGKPSHLTUWNOVXY
