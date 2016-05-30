@@ -39,4 +39,5 @@ There are 5 cows. Cow #1 had been assigned with 1; cow #2 with 0; cow #3 with 5;
 #### OUTPUT DETAILS:
 
 4 xor 2 = 6
+
 (001) xor (010) = (011) 
