@@ -1,6 +1,6 @@
 ## Cow XOR
 
-Farmer John is stuck with another problem while feeding his cows. All of his N (1 ≤ N ≤ 100,000) cows (numbered 1..N) are lined up in front of the barn, sorted by their rank in their social hierarchy. Cow #1 has the highest rank; cow #N has the least rank. Every cow had additionally been assigned a non-unique integer number in the range 0..(221 - 1).
+Farmer John is stuck with another problem while feeding his cows. All of his N (1 ≤ N ≤ 100,000) cows (numbered 1..N) are lined up in front of the barn, sorted by their rank in their social hierarchy. Cow #1 has the highest rank; cow #N has the least rank. Every cow had additionally been assigned a non-unique integer number in the range 0..(2<sup>21</sup> - 1).
 
 Help FJ choose which cows will be fed first by selecting a sequence of consecutive cows in the line such that the bitwise "xor" between their assigned numbers has the maximum value. If there are several such sequences, choose the sequence for which its last cow has the highest rank. If there still is a tie, choose the shortest sequence.
 
