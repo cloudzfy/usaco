@@ -25,7 +25,7 @@ using namespace std;
 
 #define INF 2147483647
 
-int m[100000];
+unordered_set<int> m;
 
 string origin = "Begin the Escape execution at the Break of Dawn";
 
@@ -114,7 +114,7 @@ int ELFhash(string &s) {
         }
         h &= ~x;
     }
-    return h % 99991;
+    return h;
 }
 
 bool dfs(string s, int depth) {
@@ -131,9 +131,9 @@ bool dfs(string s, int depth) {
                 string tmp = decryption(s, C, O, W);
                 if (!checkPrefix(tmp) || !checkSuffix(tmp) || !checkSubstr(tmp)) continue;
                 int h = ELFhash(tmp);
-                if (m[h]) continue;
+                if (m.find(h) != m.end()) continue;
                 if (dfs(tmp, depth - 1)) return true;
-                m[h] = 1;
+                m.insert(h);
             }
         }
     }
@@ -147,7 +147,6 @@ int main(int argc, const char * argv[]) {
     getline(fin, s);
     int len = (int)s.length();
     int T = (len - 47) / 3;
-    memset(m, 0, sizeof(m));
     if ((len - 47) % 3 == 0 && checkFrequency(s) && dfs(s, T)) fout << 1 << " " << T << endl;
     else fout << "0 0" << endl;
     return 0;
