@@ -1,0 +1,36 @@
+------- test 1 [length 19 bytes] ----
+9 9 12
+6 6 6
+6 3 6
+------- test 2 [length 22 bytes] ----
+12 9 12
+9 9 9
+12 9 12
+------- test 3 [length 21 bytes] ----
+6 9 3
+3 3 9
+12 12 12
+------- test 4 [length 18 bytes] ----
+9 3 9
+9 9 9
+9 9 9
+------- test 5 [length 26 bytes] ----
+6 12 12
+12 12 12
+12 12 12
+------- test 6 [length 22 bytes] ----
+3 12 9
+6 6 6
+12 12 12
+------- test 7 [length 20 bytes] ----
+12 3 3
+3 6 6
+12 3 6
+------- test 8 [length 21 bytes] ----
+12 3 9
+9 12 12
+3 6 9
+------- test 9 [length 22 bytes] ----
+9 12 9
+12 3 12
+9 12 9
